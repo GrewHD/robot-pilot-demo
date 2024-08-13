@@ -1,5 +1,7 @@
 # Robot Pilot Demo
 
+This project is developed using React.js, TypeScript, Tailwind, CSS, and Jest. It includes a grid with a robot that the user can control by pressing arrow keys on the keyboard or clicking on-screen buttons. Additionally, I implemented unit tests to ensure the application's functionality and set up CI for automated testing.
+
 ## Link for preview
 
 [robot-pilot-demo.vercel.app](https://robot-pilot-demo.vercel.app/)
