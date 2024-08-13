@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Link for preview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+robot-pilot-demo.vercel.app
 
 ## Available Scripts
 
